@@ -1,9 +1,5 @@
 # Amplitude Modulation
 
-
-
-
-
 ## JSFX Plugin
 
 ```
@@ -49,5 +45,15 @@ carrier_phase >= two_pi ? carrier_phase -= two_pi;
 mod_phase >= two_pi ? mod_phase -= two_pi;
 ```
 
+
+**Test**
+Aug 3rd 2025 15:25
+GHOC BTHRM + lVRRM
+Macbook Air Rose
+Built-in speakers
+Reaper
+
+JSFX Plugin Settings:
+<img width="833" height="273" alt="Screenshot 2025-08-03 at 15 18 45" src="https://github.com/user-attachments/assets/558fc6af-29ad-429d-9072-29ad8bf1b077" />
 
 

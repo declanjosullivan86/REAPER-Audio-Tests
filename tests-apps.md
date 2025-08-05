@@ -1,0 +1,6 @@
+# High-Frequency Audio Test - Desktop Pair Speakers (USB-A Powered with Jack Plug)
+
+| Start Timestamp       | Device/Hardware                     | Test Doc Complete | Frequency Range        | Software Used                                                       | Outcomes                                         | Measurements (Objective/Subjective)                                                                                           | End Timestamp       | Test Complete (Y/N) |
+|-----------------------|-------------------------------------|-------------------|-------------------------|----------------------------------------------------------------------|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------|----------------------|
+| 2025-08-05 15:00:00   | Desktop Pair Speakers via USB-A + Jack Plug | ✅                 | 17,500–22,000 Hz Sine, 0.01–0.02s | Moto 4 Android<br>SmarterNoise Pro (Spectrogram Option) on S24+     | Audible artifacts at lower end<br>None at upper end | **Objective:**<br>- Spectrum presence in SmarterNoise Pro<br>- Amplitude peaks (dB)<br>**Subjective:**<br>- Audible perception<br>- Speaker distortion or clipping | 2025-08-05 15:10:00 | ✅              |
+

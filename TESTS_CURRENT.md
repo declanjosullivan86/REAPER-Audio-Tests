@@ -1,5 +1,11 @@
 # Audio Test Outline: Reaper with Marantz USB Mic and JBL Speakers
 
+## Update: 
+- OFF - Pitch Shift Up & Pitch Shift Down
+- OFF - AM (Low Freq) & AM (Higher Freq)
+- NEW - Freq Shift +0-22khz at 25hz, normal max is 8 hz. No negative hz range. 
+- 
+
 This document outlines a multi-track audio test within the Reaper Digital Audio Workstation (DAW) environment.  
 The goal is to explore various audio effects and their playback through a simple, consumer-grade speaker setup.
 

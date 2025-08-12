@@ -1,5 +1,9 @@
 # Audio Test Outline: Reaper with Marantz USB Mic and JBL Speakers
 
+> [!NOTE]
+> General observation that significant benefit of min and max contrast on any major feature - pitch, volume, tremelo, amplitude.
+> With volume/gain, there is also the possible contrast of the more extreme off/0 and min/max and any other combination of features.
+
 ## Update: 
 - OFF - Pitch Shift Up & Pitch Shift Down
 - OFF - AM (Low Freq) & AM (Higher Freq)

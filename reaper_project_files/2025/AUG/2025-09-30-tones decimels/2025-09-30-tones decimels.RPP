@@ -1,0 +1,1539 @@
+<REAPER_PROJECT 0.1 "7.47/macOS-arm64" 1759251108
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 4248
+  ENVATTACH 2
+  POOLEDENVATTACH 2
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 36
+  ZOOM 0.007 52 0
+  VZOOMEX 6 0
+  USE_REC_CFG 2
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "" "/Users/djsosul/Music/M3-Reaper-2025/REAPER-media-2nd"
+  <RECORD_CFG
+    ZXZhdyEsAQ==
+  >
+  <APPLYFX_CFG
+    Y2FsZhgAAAAFAAAA
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 9 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdyEAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 4
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 1 0 -1
+  MASTERHWOUT 2 0 1 0 0 1 0 -1
+  MASTERHWOUT 4 0 1 0 0 1 0 -1
+  MASTERHWOUT 6 0 1 0 0 1 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_SEL 1
+  <MASTERFXLIST
+    WNDRECT 918 358 1132 660
+    SHOW 0
+    LASTSEL -1
+    DOCKED 0
+  >
+  <MASTERPLAYSPEEDENV
+    EGUID {C95F83E6-2282-FD44-AD15-9B824C597822}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {D05F171D-3953-0A4A-9DFC-9D27AFB7B845}
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {DD613F7A-A2D7-214A-AB47-6D39DA59FDC2}
+    NAME "25% negtive 500 hz"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 2 5 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DD613F7A-A2D7-214A-AB47-6D39DA59FDC2}
+    PERF 0
+    AUXRECV 2 0 1 0 0 0 1 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 23 73 1399 679
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.vst.dylib 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
+        IQAAAAUAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D+amZmZmZnpPwEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D+amZmZmZnpPwEEAAAAAAAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAKBeFO8/AAAA
+        AJAEAABTAgAAAgAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D15C0321-E086-964B-886C-F4C19FBE3C8B}
+      <PROGRAMENV 15:_Global_Gain 0 "Global Gain / ReaEQ"
+        PARAMBASE 1
+        LFO 1
+        LFOWT 0.25 -1
+        AUDIOCTL 0
+        AUDIOCTLWT 1 1
+        LFOSHAPE 0
+        LFOSYNC 0 0 0
+        LFOSPEED 125.060576 0
+        MODWND 0 786 200 1173 585
+      >
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST3: MUtility (MeldaProduction)" MUtility.vst3 0 "" 1423054497{4D656C646170726F4D7574694D757469} ""
+        oRbSVO5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAABAEAAABAAAAAAAQAA==
+        AAIAAAEAAAB42oWSTU7DMBCFjcQFuEGlbkGhBYpYoTQtUiUsCuEn22kzTSyMJ7InpWXBmbkB2KFULVQiu3nPee/zyEL2s0w+sNKKlw6ZlSmciNuisxe3KzAaXrsiF6uv
+        kcjCC2ic8S7dqqLcMgZJX9P0GW2TuJ4S0hoqh/m2fFtDAPkJ+Ljc8GJmNDWwIiPc0Ukv77eiFk0Z5hh6UMNyaGCiMd8I986dTP/qvnRo5qipwp2mBC53/7WoLDrnIf6x
+        hVv48oTyX5d9RNvYp2L/QMRyNBiNLRV+d0kJpljRBPAtOQHGgqx6C4sU8TBXTDb1o3AXx53Ds/OeiBMybH2VL1ixhaMS2QtrhNRPSAFkrOtCmXsiPYFNxM9YwuL66qZZ
+        e1PRaWXfKV2RPamcSymylGo7xUCJM6W96R+Or4ui6P0L1gO+bAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAeNqFkk1OwzAQhY3EBbhBpW5BoQWKWKE0LVIlLArhJ9tpM00sjCeyJ6VlwZm5Adih
+        VC1UIrt5z3nv88hC9rNMPrDSipcOmZUpnIjborMXtyswGl67Iherr5HIwgtonPEu3aqi3DIGSV/T9Bltk7ieEtIaKof5tnxbQwD5Cfi43PBiZjQ1sCIj3NFJL++3ohZN
+        GeYYelDDcmhgojHfCPfOnUz/6r50aOaoqcKdpgQud/+1qCw65yH+sYVb+PKE8l+XfUTb2Kdi/0DEcjQYjS0VfndJCaZY0QTwLTkBxoKseguLFPEwV0w29aNwF8edw7Pz
+        nogTMmx9lS9YsYWjEtkLa4TUT0gBZKzrQpl7Ij2BTcTPWMLi+uqmWXtT0Wll3yldkT2pnEspspRqO8VAiTOlvekfjq+Louj9C9YDvmwAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+        AERDIEJsb2NrZXIgLSAxMDAlIC0zNmRiL29jdCBhdHRlbnR1YXRvbiAtIG5vIHBhbm9yYW1hABAAAAA=
+      >
+      PRESETNAME "DC Blocker - 100% -36db/oct attentuaton - no panorama"
+      FLOATPOS 0 0 0 0
+      FXID {61941798-D93E-6345-8892-98DA9EAB3CC9}
+      WAK 0 0
+    >
+  >
+  <TRACK {800367D3-8895-7443-BEE8-B1DCDD014155}
+    NAME "50% positive 1000 hz"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 2 5 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {800367D3-8895-7443-BEE8-B1DCDD014155}
+    PERF 0
+    AUXRECV 2 0 1 0 0 0 1 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 578 297 1132 660
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.vst.dylib 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
+        IQAAAAUAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D+amZmZmZnpPwEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D+amZmZmZnpPwEEAAAAAAAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAACAvT+E/AAAA
+        AJAEAABTAgAAAgAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D827E494-30A2-8241-8020-55428AAD29DB}
+      <PROGRAMENV 15:_Global_Gain 0 "Global Gain / ReaEQ"
+        PARAMBASE 0
+        LFO 1
+        LFOWT 0.5 1
+        AUDIOCTL 0
+        AUDIOCTLWT 1 1
+        LFOSHAPE 0
+        LFOSYNC 0 0 0
+        LFOSPEED 125.060576 0
+        MODWND 0 786 200 1173 585
+      >
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST3: MUtility (MeldaProduction)" MUtility.vst3 0 "" 1423054497{4D656C646170726F4D7574694D757469} ""
+        oRbSVO5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAABAEAAABAAAAAAAQAA==
+        AAIAAAEAAAB42oWSTU7DMBCFjcQFuEGlbkGhBYpYoTQtUiUsCuEn22kzTSyMJ7InpWXBmbkB2KFULVQiu3nPee/zyEL2s0w+sNKKlw6ZlSmciNuisxe3KzAaXrsiF6uv
+        kcjCC2ic8S7dqqLcMgZJX9P0GW2TuJ4S0hoqh/m2fFtDAPkJ+Ljc8GJmNDWwIiPc0Ukv77eiFk0Z5hh6UMNyaGCiMd8I986dTP/qvnRo5qipwp2mBC53/7WoLDrnIf6x
+        hVv48oTyX5d9RNvYp2L/QMRyNBiNLRV+d0kJpljRBPAtOQHGgqx6C4sU8TBXTDb1o3AXx53Ds/OeiBMybH2VL1ixhaMS2QtrhNRPSAFkrOtCmXsiPYFNxM9YwuL66qZZ
+        e1PRaWXfKV2RPamcSymylGo7xUCJM6W96R+Or4ui6P0L1gO+bAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAeNqFkk1OwzAQhY3EBbhBpW5BoQWKWKE0LVIlLArhJ9tpM00sjCeyJ6VlwZm5Adih
+        VC1UIrt5z3nv88hC9rNMPrDSipcOmZUpnIjborMXtyswGl67Iherr5HIwgtonPEu3aqi3DIGSV/T9Bltk7ieEtIaKof5tnxbQwD5Cfi43PBiZjQ1sCIj3NFJL++3ohZN
+        GeYYelDDcmhgojHfCPfOnUz/6r50aOaoqcKdpgQud/+1qCw65yH+sYVb+PKE8l+XfUTb2Kdi/0DEcjQYjS0VfndJCaZY0QTwLTkBxoKseguLFPEwV0w29aNwF8edw7Pz
+        nogTMmx9lS9YsYWjEtkLa4TUT0gBZKzrQpl7Ij2BTcTPWMLi+uqmWXtT0Wll3yldkT2pnEspspRqO8VAiTOlvekfjq+Louj9C9YDvmwAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+        AERDIEJsb2NrZXIgLSAxMDAlIC0zNmRiL29jdCBhdHRlbnR1YXRvbiAtIG5vIHBhbm9yYW1hABAAAAA=
+      >
+      PRESETNAME "DC Blocker - 100% -36db/oct attentuaton - no panorama"
+      FLOATPOS 0 0 0 0
+      FXID {B999B85C-40B9-E64F-84F3-D9EC8E940C98}
+      WAK 0 0
+    >
+  >
+  <TRACK {14DF5793-EACE-3A49-8893-77060471E697}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.48985069244451 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 1 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 1 5 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {14DF5793-EACE-3A49-8893-77060471E697}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 826 250 1132 660
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS utility/phase_adjust ""
+        -54 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {8FD1777B-3945-7D47-B9D9-D92302C2A1A2}
+      <PROGRAMENV 0 0 "Phase Adjustment / Phase Rotator"
+        PARAMBASE 0
+        LFO 1
+        LFOWT 1 0
+        AUDIOCTL 0
+        AUDIOCTLWT 1 1
+        LFOSHAPE 0
+        LFOSYNC 0 0 0
+        LFOSPEED 125.060576 0
+        MODWND 0 158 186 545 571
+      >
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST3: MUtility (MeldaProduction)" MUtility.vst3 0 "" 1423054497{4D656C646170726F4D7574694D757469} ""
+        oRbSVO5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAABAEAAABAAAAAAAQAA==
+        AAIAAAEAAAB42oWSTU7DMBCFjcQFuEGlbkGhBYpYoTQtUiUsCuEn22kzTSyMJ7InpWXBmbkB2KFULVQiu3nPee/zyEL2s0w+sNKKlw6ZlSmciNuisxe3KzAaXrsiF6uv
+        kcjCC2ic8S7dqqLcMgZJX9P0GW2TuJ4S0hoqh/m2fFtDAPkJ+Ljc8GJmNDWwIiPc0Ukv77eiFk0Z5hh6UMNyaGCiMd8I986dTP/qvnRo5qipwp2mBC53/7WoLDrnIf6x
+        hVv48oTyX5d9RNvYp2L/QMRyNBiNLRV+d0kJpljRBPAtOQHGgqx6C4sU8TBXTDb1o3AXx53Ds/OeiBMybH2VL1ixhaMS2QtrhNRPSAFkrOtCmXsiPYFNxM9YwuL66qZZ
+        e1PRaWXfKV2RPamcSymylGo7xUCJM6W96R+Or4ui6P0L1gO+bAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAeNqFkk1OwzAQhY3EBbhBpW5BoQWKWKE0LVIlLArhJ9tpM00sjCeyJ6VlwZm5Adih
+        VC1UIrt5z3nv88hC9rNMPrDSipcOmZUpnIjborMXtyswGl67Iherr5HIwgtonPEu3aqi3DIGSV/T9Bltk7ieEtIaKof5tnxbQwD5Cfi43PBiZjQ1sCIj3NFJL++3ohZN
+        GeYYelDDcmhgojHfCPfOnUz/6r50aOaoqcKdpgQud/+1qCw65yH+sYVb+PKE8l+XfUTb2Kdi/0DEcjQYjS0VfndJCaZY0QTwLTkBxoKseguLFPEwV0w29aNwF8edw7Pz
+        nogTMmx9lS9YsYWjEtkLa4TUT0gBZKzrQpl7Ij2BTcTPWMLi+uqmWXtT0Wll3yldkT2pnEspspRqO8VAiTOlvekfjq+Louj9C9YDvmwAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+        AERDIEJsb2NrZXIgLSAxMDAlIC0zNmRiL29jdCBhdHRlbnR1YXRvbiAtIG5vIHBhbm9yYW1hABAAAAA=
+      >
+      PRESETNAME "DC Blocker - 100% -36db/oct attentuaton - no panorama"
+      FLOATPOS 0 0 0 0
+      FXID {9F70B18F-A7C3-E94A-8AE9-9D727C837E43}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST3: MUtility (MeldaProduction)" MUtility.vst3 0 "" 1423054497{4D656C646170726F4D7574694D757469} ""
+        oRbSVO5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAABAEAAABAAAAAAAQAA==
+        AAIAAAEAAAB42oWSwU4CMRCGa/Ti0RcwJHvVrKBiPJGyoCGxEV3FPVrosNtYWtJ2ETx4Mz6Wr+Hds4kH79ouSEBJ7G3+fzr/10kRqScJubZccDsxYC2XqUE4QOU1HHSU
+        yAeAGHJn8/WthoNTyiVit9tP68/vny84GFIp6H1l2uJPISlNB1RA367SNU+zJaMR1YXq3YEuMudVpISgQwNsWb7IqUf9GfBRW/CwtSBzarmSyOzuV1m9FJZUz9IR+BwQ
+        dNKUtCuALQx3ziWJ/+outClHINQQVpqE2mz1rfFQgzEO4h8bmbELjxT79dgO6MI+QBtbCJNWo9XWKnW7izIq0xmNB1+SI2ohVZo/+EUi3GTcKh27EpnjvfLO4VEV4UhJ
+        q12UC5ix+VYC1glzhNhVoDxIW+Qpl1dKiS5dRPzChI7PTs6LtRcR5VIynVJByQ1nNiMoiVWue+Apoc+FM93XcnFhGD5+A7KMyiMAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAeNqFksFOAjEQhmv04tEXMCR71aygYjyRsqAhsRFdxT1a6LDbWFrSdhE8eDM+lq/h
+        3bOJB+/aLkhASext/n86/9dJEaknCbm2XHA7MWAtl6lBOEDlNRx0lMgHgBhyZ/P1rYaDU8olYrfbT+vP758vOBhSKeh9ZdriTyEpTQdUQN+u0jVPsyWjEdWF6t2BLjLn
+        VaSEoEMDbFm+yKlH/RnwUVvwsLUgc2q5ksjs7ldZvRSWVM/SEfgcEHTSlLQrgC0Md84lif/qLrQpRyDUEFaahNps9a3xUIMxDuIfG5mxC48U+/XYDujCPkAbWwiTVqPV
+        1ip1u4syKtMZjQdfkiNqIVWaP/hFItxk3CoduxKZ473yzuFRFeFISatdlAuYsflWAtYJc4TYVaA8SFvkKZdXSokuXUT8woSOz07Oi7UXEeVSMp1SQckNZzYjKIlVrnvg
+        KaHPhTPd13JxYRg+fgOyjMojAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+        AERDIEJsb2NrZXIgLSAxMDAlIC0zNmRiL29jdCBhdHRlbnR1YXRvbiAtIG5vIHBhbm9yYW1hABAAAAA=
+      >
+      PRESETNAME "DC Blocker - 100% -36db/oct attentuaton - no panorama"
+      FLOATPOS 0 0 0 0
+      FXID {055E6D21-418D-B948-B7F5-900A26434676}
+      <PROGRAMENV 0:0 0 "Volume (Basic) / MUtility"
+        PARAMBASE 1
+        LFO 1
+        LFOWT 1 -1
+        AUDIOCTL 0
+        AUDIOCTLWT 1 1
+        LFOSHAPE 0
+        LFOSYNC 0 0 0
+        LFOSPEED 0.062042 0.5
+        MODWND 0 128 433 515 818
+      >
+      WAK 0 0
+    >
+  >
+  <TRACK {36468984-B9F8-C149-97A5-501B87BD14B8}
+    NAME 1
+    PEAKCOL 33541222
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.12967046574679 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 1 5 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {36468984-B9F8-C149-97A5-501B87BD14B8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 285 155 807 447
+      SHOW 0
+      LASTSEL 4
+      DOCKED 0
+      BYPASS 0 0 0
+      <CONTAINER Container "Base - 1000 Hz"
+        CONTAINER_CFG 2 2 2 0
+        <IN_PINS
+        >
+        <OUT_PINS
+        >
+        SHOW 0
+        LASTSEL 0
+        DOCKED 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 1 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {B3BC4596-A7DC-5C49-A175-2A1C73303202}
+        WAK 0 0
+      >
+      FLOATPOS 859 422 534 282
+      FXID {C3517ADF-2412-E44D-BBB9-044F9962D423}
+      WAK 0 0
+      BYPASS 0 0 0
+      <CONTAINER Container "+0.01 Hz"
+        CONTAINER_CFG 2 2 2 0
+        <IN_PINS
+        >
+        <OUT_PINS
+        >
+        SHOW 0
+        LASTSEL 1
+        DOCKED 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 1.678 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {9EEDDE22-731A-8F4D-836F-79B118515520}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 1.668 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {0EB50B57-E6C0-A448-83BA-733136582B1B}
+        WAK 0 0
+      >
+      FLOATPOS 0 0 0 0
+      FXID {3983F156-84F4-CD46-A489-D1E091E4AA08}
+      WAK 0 0
+      BYPASS 0 0 0
+      <CONTAINER Container "+0.1 Hz"
+        CONTAINER_CFG 2 2 2 0
+        <IN_PINS
+        >
+        <OUT_PINS
+        >
+        SHOW 0
+        LASTSEL 2
+        DOCKED 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 1.658 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {F6A434DD-305D-F440-BB1C-9943A646083E}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 1.758 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {E53397F0-EA1B-1B41-8659-74F2885998DB}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 1.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {13AFDC52-E5B3-4B42-B9EF-9A2027D2B8D4}
+        WAK 0 0
+      >
+      FLOATPOS 0 0 0 0
+      FXID {42BFC7E7-AAB6-ED4A-99B4-0B11BF736E45}
+      WAK 0 0
+      BYPASS 0 0 0
+      <CONTAINER Container "+1 Hz"
+        CONTAINER_CFG 2 2 2 0
+        <IN_PINS
+        >
+        <OUT_PINS
+        >
+        SHOW 0
+        LASTSEL 4
+        DOCKED 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 1.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {7DA88EA9-84D7-F146-B9F1-0233ECB3C3FE}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 2.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {B51715DB-65B3-054C-9F12-37940D85D81A}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 3.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {7E6680DE-9006-534E-ABF8-6AB0526567E5}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 4.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {25613220-7E40-1A4A-8FF9-9C33C5D660A8}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 5.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {DEF32239-056A-9E43-837C-14B74530F509}
+        WAK 0 0
+      >
+      FLOATPOS 0 0 0 0
+      FXID {CEA57768-E8A9-5F4F-BDD5-CBD7F90FF74E}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.vst.dylib 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
+        IQAAAAUAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D+amZmZmZnpPwEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAAOAeGv7+YBAj+21oPfGsD72KFyPwvUPQAEEAAAAAAAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAA
+        AEACAABrAQAAAgAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {805645DA-8715-6244-B085-D400FA9500DD}
+      WAK 0 0
+    >
+  >
+  <TRACK {4BAA042B-F7AC-3C4C-96A2-C465B05C16D1}
+    NAME 1000
+    PEAKCOL 33541222
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.026168181958 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 1 5 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4BAA042B-F7AC-3C4C-96A2-C465B05C16D1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 691 153 807 447
+      SHOW 0
+      LASTSEL 4
+      DOCKED 0
+      BYPASS 0 0 0
+      <CONTAINER Container "Base - 1000 Hz"
+        CONTAINER_CFG 2 2 2 0
+        <IN_PINS
+        >
+        <OUT_PINS
+        >
+        SHOW 0
+        LASTSEL 0
+        DOCKED 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 1000 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {86567CF8-45D6-EC49-B6A9-2AE5918996CD}
+        WAK 0 0
+      >
+      FLOATPOS 859 422 534 282
+      FXID {66BAB38A-2AEF-D041-9B7A-8146304BFB54}
+      WAK 0 0
+      BYPASS 0 0 0
+      <CONTAINER Container "+0.01 Hz"
+        CONTAINER_CFG 2 2 2 0
+        <IN_PINS
+        >
+        <OUT_PINS
+        >
+        SHOW 0
+        LASTSEL 0
+        DOCKED 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 1000.678 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {9AC13190-3C97-444B-8F6C-81EDDA8BE6F5}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 1000.668 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {79D15857-4765-1F4B-A013-96EFA452D267}
+        WAK 0 0
+      >
+      FLOATPOS 0 0 0 0
+      FXID {122C32AF-1394-FC4D-BD14-47E13A5797C6}
+      WAK 0 0
+      BYPASS 0 0 0
+      <CONTAINER Container "+0.1 Hz"
+        CONTAINER_CFG 2 2 2 0
+        <IN_PINS
+        >
+        <OUT_PINS
+        >
+        SHOW 0
+        LASTSEL 2
+        DOCKED 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 1000.658 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {77EEFB96-758A-404F-9537-0DE33203870C}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 1000.758 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {D2EB31BB-D53A-F44A-80D3-13F65FEB949C}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 1000.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {58243E8B-C6AB-054C-A05C-F716EB677103}
+        WAK 0 0
+      >
+      FLOATPOS 0 0 0 0
+      FXID {56241B2E-1F3C-3D4A-ABED-E86DC9DC5595}
+      WAK 0 0
+      BYPASS 0 0 0
+      <CONTAINER Container "+1 Hz"
+        CONTAINER_CFG 2 2 2 0
+        <IN_PINS
+        >
+        <OUT_PINS
+        >
+        SHOW 0
+        LASTSEL 4
+        DOCKED 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 1001.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {A5875549-9BCF-9942-9C20-796C75EC1F44}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 1002.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {C0876E4F-E843-6444-B916-873AAB40DA16}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 1003.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {9B5E04EB-A2BB-FE4B-B3BC-EF1A28A5BCBD}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 1004.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {910CD38C-9125-D44B-BCFF-12BA2097FC04}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 1005.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {B5606244-C738-0A4C-89B7-DC7CCD5A7EFE}
+        WAK 0 0
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9BE8A14F-2887-394A-BBC9-65477C4BC2C8}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.vst.dylib 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
+        IQAAAAUAAAAAAAAAAQAAAEDkgoLdfJBAj+21oPfGsD6amZmZmZnpPwEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAA1Gj1zEIZFAj+21oPfGsD6amZmZmZnpPwEEAAAAAAAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAA
+        AEACAABrAQAAAgAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B03B81AF-ECBB-9A4E-8835-76AF439FD714}
+      WAK 0 0
+    >
+  >
+  <TRACK {AD7F2C68-5024-1A48-99EA-39AAF1664C59}
+    NAME 2300
+    PEAKCOL 33541222
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.12967046574679 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 1 5 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {AD7F2C68-5024-1A48-99EA-39AAF1664C59}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 691 153 807 447
+      SHOW 0
+      LASTSEL 4
+      DOCKED 0
+      BYPASS 0 0 0
+      <CONTAINER Container "Base - 2300 Hz"
+        CONTAINER_CFG 2 2 2 0
+        <IN_PINS
+        >
+        <OUT_PINS
+        >
+        SHOW 0
+        LASTSEL 0
+        DOCKED 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 2300 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {77F43D03-E122-2F45-9927-DF9DEAD4ACDA}
+        WAK 0 0
+      >
+      FLOATPOS 859 422 534 282
+      FXID {AAE7F5A9-98B8-174B-8AEB-07BEB67CFF66}
+      WAK 0 0
+      BYPASS 0 0 0
+      <CONTAINER Container "+0.01 Hz"
+        CONTAINER_CFG 2 2 2 0
+        <IN_PINS
+        >
+        <OUT_PINS
+        >
+        SHOW 0
+        LASTSEL 0
+        DOCKED 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 2300.678 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {D5750F61-E2CB-9A48-A720-1ED4656020CE}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 2300.668 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {0642E2F1-5378-E040-9DE8-E767BB185EDF}
+        WAK 0 0
+      >
+      FLOATPOS 0 0 0 0
+      FXID {BCADB2B0-0A87-CA43-B1E1-4DF2940C2938}
+      WAK 0 0
+      BYPASS 0 0 0
+      <CONTAINER Container "+0.1 Hz"
+        CONTAINER_CFG 2 2 2 0
+        <IN_PINS
+        >
+        <OUT_PINS
+        >
+        SHOW 0
+        LASTSEL 0
+        DOCKED 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 2300.658 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {496F5340-A81C-DF4D-B329-CF3661254BDC}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 2300.758 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {91D420F8-8606-D744-A702-5E54967BC070}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 2300.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {E81F7F19-1270-D940-BA39-0DA8159EE8E3}
+        WAK 0 0
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B529EBED-C837-F44C-8CFE-9EA3CB523C58}
+      WAK 0 0
+      BYPASS 0 0 0
+      <CONTAINER Container "+1 Hz"
+        CONTAINER_CFG 2 2 2 0
+        <IN_PINS
+        >
+        <OUT_PINS
+        >
+        SHOW 0
+        LASTSEL 0
+        DOCKED 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 2301.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {B0EF8243-DBD4-384F-9488-29499013A53E}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 2302.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {5071A831-A584-4D43-8592-61E4FF8B8A49}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 2303.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {30E0D285-36F0-C04B-BD07-0404D19B6930}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 2304.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {81A90021-D845-1B46-9F7B-B9F09F47651C}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 2305.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {6B0C93F8-9734-D84F-A529-F615029E4272}
+        WAK 0 0
+      >
+      FLOATPOS 0 0 0 0
+      FXID {51FD6FEE-22CD-4C40-9D30-E108E9B2E899}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.vst.dylib 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
+        IQAAAAUAAAAAAAAAAQAAANSknXOMO6VAj+21oPfGsD6amZmZmZnpPwEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAK1ZPwYoqp1Aj+21oPfGsD6amZmZmZnpPwEEAAAAAAAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAA
+        AEACAABrAQAAAgAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {5730E477-B970-E94E-878A-891B28F82745}
+      WAK 0 0
+    >
+  >
+  <TRACK {F64402DD-93A2-554F-A7E6-246D4216DEF5}
+    NAME 4200
+    PEAKCOL 33541222
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.00034963133439 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 1 5 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F64402DD-93A2-554F-A7E6-246D4216DEF5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 246 73 807 447
+      SHOW 0
+      LASTSEL 4
+      DOCKED 0
+      BYPASS 0 0 0
+      <CONTAINER Container "Base - 4200 Hz"
+        CONTAINER_CFG 2 2 2 0
+        <IN_PINS
+        >
+        <OUT_PINS
+        >
+        SHOW 0
+        LASTSEL 0
+        DOCKED 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 4200 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {144F9217-EFA6-E44D-B5EE-97E083E18BF5}
+        WAK 0 0
+      >
+      FLOATPOS 859 422 534 282
+      FXID {F7035993-C72E-9D43-B5A2-6BAED26E5C60}
+      WAK 0 0
+      BYPASS 0 0 0
+      <CONTAINER Container "+0.01 Hz"
+        CONTAINER_CFG 2 2 2 0
+        <IN_PINS
+        >
+        <OUT_PINS
+        >
+        SHOW 0
+        LASTSEL 0
+        DOCKED 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 4200.678 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {492AEAAD-537E-5D4C-AB7E-1E79C25262AC}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 4200.668 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {A6162193-FC9E-D043-8BE6-A4E012D0033C}
+        WAK 0 0
+      >
+      FLOATPOS 0 0 0 0
+      FXID {60721CD9-E218-4C43-9393-E3283DCF6595}
+      WAK 0 0
+      BYPASS 0 0 0
+      <CONTAINER Container "+0.1 Hz"
+        CONTAINER_CFG 2 2 2 0
+        <IN_PINS
+        >
+        <OUT_PINS
+        >
+        SHOW 0
+        LASTSEL 2
+        DOCKED 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 4200.658 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {C2921150-28BC-E840-8B60-C437D6FB87F7}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 4200.758 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {8201664F-F7BC-704B-98BE-6D0643E4CA49}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 4200.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {07707E6D-B9F4-E549-88BD-CCDB95DA2399}
+        WAK 0 0
+      >
+      FLOATPOS 0 0 0 0
+      FXID {14C87FD7-B04F-2A4B-B567-352D3FC46D5F}
+      WAK 0 0
+      BYPASS 0 0 0
+      <CONTAINER Container "+1 Hz"
+        CONTAINER_CFG 2 2 2 0
+        <IN_PINS
+        >
+        <OUT_PINS
+        >
+        SHOW 0
+        LASTSEL 1
+        DOCKED 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 4201.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {1B9E4758-43C6-4F49-BE91-4C8F8A823C21}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 4202.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {2D5F18E5-C7A2-3141-BFFE-445009B35450}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 4203.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {22E1117F-C500-D540-B314-1FA49FF51E89}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 4204.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {353BE38D-B3AF-5843-ADA1-02E8573E4B31}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 4205.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {1A2894C9-C1BD-8442-8647-6A38B03CF8F3}
+        WAK 0 0
+      >
+      FLOATPOS 0 0 0 0
+      FXID {10A71F8B-DA73-B743-B45F-4EAA1D919E4C}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.vst.dylib 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
+        IQAAAAUAAAAAAAAAAQAAAO0mYsCxALVAj+21oPfGsD6amZmZmZnpPwEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAACJ8Nik2XKtAj+21oPfGsD6amZmZmZnpPwEEAAAAAAAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAA
+        AEACAABrAQAAAgAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {916A94F2-A60C-684A-8707-1CB8FB27D48C}
+      WAK 0 0
+    >
+  >
+  <TRACK {138E7CD6-F658-9F41-9ED3-62712B0FDE69}
+    NAME 5500
+    PEAKCOL 33541222
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.08131100973273 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 1 5 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {138E7CD6-F658-9F41-9ED3-62712B0FDE69}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 246 73 807 447
+      SHOW 0
+      LASTSEL 4
+      DOCKED 0
+      BYPASS 0 0 0
+      <CONTAINER Container "Base - 5500 Hz"
+        CONTAINER_CFG 2 2 2 0
+        <IN_PINS
+        >
+        <OUT_PINS
+        >
+        SHOW 0
+        LASTSEL 0
+        DOCKED 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 5500 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {1D926B59-7CC4-BF4F-94E9-3E72FD85D6B8}
+        WAK 0 0
+      >
+      FLOATPOS 859 422 788 277
+      FXID {142E2F4B-5D48-814B-97EB-4BDE8EB057A1}
+      WAK 0 0
+      BYPASS 0 0 0
+      <CONTAINER Container "+0.01 Hz"
+        CONTAINER_CFG 2 2 2 0
+        <IN_PINS
+        >
+        <OUT_PINS
+        >
+        SHOW 0
+        LASTSEL 1
+        DOCKED 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 5500.678 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {7DD6C026-80D2-A247-B432-A99E42D44325}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 5500.668 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {519B04B5-555D-B940-BD64-90A2A08B787D}
+        WAK 0 0
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9BFC0DC6-907D-F046-A071-F36B6A87AC02}
+      WAK 0 0
+      BYPASS 0 0 0
+      <CONTAINER Container "+0.1 Hz"
+        CONTAINER_CFG 2 2 2 0
+        <IN_PINS
+        >
+        <OUT_PINS
+        >
+        SHOW 0
+        LASTSEL 2
+        DOCKED 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 5500.658 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {AD699B15-7EC9-8A46-B10A-620B4FF89651}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 5500.758 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {DF97F00F-85C5-A84F-A62F-C05D0CD2E1CC}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 5500.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {708AC053-B1BE-FA43-94E7-DA1904D479D2}
+        WAK 0 0
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E4CAC82B-DFE5-0749-B4A2-51B518AEACE8}
+      WAK 0 0
+      BYPASS 0 0 0
+      <CONTAINER Container "+1 Hz"
+        CONTAINER_CFG 2 2 2 0
+        <IN_PINS
+        >
+        <OUT_PINS
+        >
+        SHOW 0
+        LASTSEL 4
+        DOCKED 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 5501.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {7F121DDA-6DD4-214E-B2E2-90416738F708}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 5502.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {49568A3E-5E30-0C47-923C-4926F4C44891}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 5503.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {2F3DFAFF-F67E-2640-AFD4-641153341A68}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 5504.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {3C749A04-070D-2340-9985-AB2FA89A726C}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 5505.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {648D8D7E-2CF9-CD4A-BF7D-1C1102762B37}
+        WAK 0 0
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F3FC4740-5009-AD4C-B3E4-9BD19E00095A}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.vst.dylib 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAA7gAAAAEAAAAAABAA
+        IQAAAAYAAAAAAAAAAQAAAIGBWZXcDrhAj+21oPfGsD6amZmZmZnpPwEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D+amZmZmZnpPwEEAAAAAAAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAFqqPWzIVrtAj+21
+        oPfGsD4AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAEACAABrAQAAAgAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D6B6D4CD-3C49-D643-A34B-D5C030231F8F}
+      WAK 0 0
+    >
+  >
+  <TRACK {B91F9116-438A-AA47-91C8-CEE57184364F}
+    NAME 9100
+    PEAKCOL 33541222
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.03644308558614 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 1 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 1 5 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B91F9116-438A-AA47-91C8-CEE57184364F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 749 150 807 447
+      SHOW 0
+      LASTSEL 4
+      DOCKED 0
+      BYPASS 0 0 0
+      <CONTAINER Container "Base - 9100 Hz"
+        CONTAINER_CFG 2 2 2 0
+        <IN_PINS
+        >
+        <OUT_PINS
+        >
+        SHOW 0
+        LASTSEL 0
+        DOCKED 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 9100 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {9D461EC5-DE9B-8D4F-875A-EC0EA8E26070}
+        WAK 0 0
+      >
+      FLOATPOS 0 0 0 0
+      FXID {919FB08F-85D6-4740-AAE9-1DBFE78606DC}
+      WAK 0 0
+      BYPASS 0 0 0
+      <CONTAINER Container "+0.01 Hz"
+        CONTAINER_CFG 2 2 2 0
+        <IN_PINS
+        >
+        <OUT_PINS
+        >
+        SHOW 0
+        LASTSEL 1
+        DOCKED 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 9100.678 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {75339D3E-6B06-494C-9E24-4E9C01CDFCB1}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 9100.668 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {3E05C004-392B-5346-8143-C44D4CEEE7F2}
+        WAK 0 0
+      >
+      FLOATPOS 0 0 0 0
+      FXID {0D5A569D-7F02-ED4A-A9BE-3072851C2C27}
+      WAK 0 0
+      BYPASS 0 0 0
+      <CONTAINER Container "+0.1 Hz"
+        CONTAINER_CFG 2 2 2 0
+        <IN_PINS
+        >
+        <OUT_PINS
+        >
+        SHOW 0
+        LASTSEL 0
+        DOCKED 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 9100.658 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {A2714DC1-48ED-D84E-8D82-8C26B7656B0F}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 9100.758 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {70B23117-2314-EF4E-A857-2D38879796F8}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 9100.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {066EA898-E3B8-5741-83AD-E11A540126B4}
+        WAK 0 0
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F4385117-70BB-2947-9584-6582834BF519}
+      WAK 0 0
+      BYPASS 0 0 0
+      <CONTAINER Container "+1 Hz"
+        CONTAINER_CFG 2 2 2 0
+        <IN_PINS
+        >
+        <OUT_PINS
+        >
+        SHOW 0
+        LASTSEL 4
+        DOCKED 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 9101.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {6371C2C4-2B97-5E4A-9613-52F7BD390751}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 9102.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {F9766D4B-DDB1-DC49-BE09-0D948E8A912A}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 9103.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {33945736-7495-C240-A989-70F7C7D5390C}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 9104.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {B2FBCCF3-246B-2148-B4EB-8C90C1EEC151}
+        WAK 0 0
+        BYPASS 0 0 0
+        <JS synthesis/tonegenerator ""
+          -20 -6 9105.858 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+        >
+        FLOATPOS 0 0 0 0
+        FXID {CE9C5E9C-C329-7C4F-9DE3-98614A8BCAEE}
+        WAK 0 0
+      >
+      FLOATPOS 0 0 0 0
+      FXID {63AFC57E-2625-9F40-88FB-6986E8D60C27}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.vst.dylib 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAA7gAAAAEAAAAAABAA
+        IQAAAAYAAAAAAAAAAQAAAFwOg/SZAcNAj+21oPfGsD6amZmZmZnpPwEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D+amZmZmZnpPwEEAAAAAAAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAMwV4N4tnslAj+21
+        oPfGsD4AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAEACAABrAQAAAgAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {16CDEDFC-C9DA-7442-A701-C070BA4A8F31}
+      WAK 0 0
+    >
+  >
+  <TRACK {4DE9298A-5734-7542-B907-352DFD206985}
+    NAME "100% neg 1k hz"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.11909232669934 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 1 5 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4DE9298A-5734-7542-B907-352DFD206985}
+    PERF 0
+    AUXRECV 3 0 1 0 0 1 1 0 0 -1:U 0 -1 ''
+    AUXRECV 4 0 1 0 0 1 1 0 0 -1:U 0 -1 ''
+    AUXRECV 5 0 1 0 0 1 1 0 0 -1:U 0 -1 ''
+    AUXRECV 6 0 1 0 0 1 1 0 0 -1:U 0 -1 ''
+    AUXRECV 7 0 1 0 0 1 1 0 0 -1:U 0 -1 ''
+    AUXRECV 8 0 1 0 0 1 1 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 578 541 785 231
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS utility/phase_adjust ""
+        147 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {06DB8D17-7A70-EB44-AC51-AFA32CB85B15}
+      <PROGRAMENV 0 0 "Phase Adjustment / Phase Rotator"
+        PARAMBASE 0
+        LFO 1
+        LFOWT 1 0
+        AUDIOCTL 0
+        AUDIOCTLWT 1 1
+        LFOSHAPE 0
+        LFOSYNC 0 0 0
+        LFOSPEED 0.124573 0
+        MODWND 0 158 186 545 571
+      >
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS utility/chanmix2 ""
+        0 -1 1 0 1 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {3F387265-105B-2A4E-A6B7-422F8D295C7A}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST3: MUtility (MeldaProduction)" MUtility.vst3 0 "" 1423054497{4D656C646170726F4D7574694D757469} ""
+        oRbSVO5e7f4IAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAQAAAABAAAAAAAAAAIAAAAAAAAA
+        BAAAAAAAAAAIAAAAAAAAABAEAAABAAAAAAAQAA==
+        AAIAAAEAAAB42oWSTU7DMBCFjcQFuEGlbkGhBYpYoTQtUiUsCuEn22kzTSyMJ7InpWXBmbkB2KFULVQiu3nPee/zyEL2s0w+sNKKlw6ZlSmciNuisxe3KzAaXrsiF6uv
+        kcjCC2ic8S7dqqLcMgZJX9P0GW2TuJ4S0hoqh/m2fFtDAPkJ+Ljc8GJmNDWwIiPc0Ukv77eiFk0Z5hh6UMNyaGCiMd8I986dTP/qvnRo5qipwp2mBC53/7WoLDrnIf6x
+        hVv48oTyX5d9RNvYp2L/QMRyNBiNLRV+d0kJpljRBPAtOQHGgqx6C4sU8TBXTDb1o3AXx53Ds/OeiBMybH2VL1ixhaMS2QtrhNRPSAFkrOtCmXsiPYFNxM9YwuL66qZZ
+        e1PRaWXfKV2RPamcSymylGo7xUCJM6W96R+Or4ui6P0L1gO+bAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAeNqFkk1OwzAQhY3EBbhBpW5BoQWKWKE0LVIlLArhJ9tpM00sjCeyJ6VlwZm5Adih
+        VC1UIrt5z3nv88hC9rNMPrDSipcOmZUpnIjborMXtyswGl67Iherr5HIwgtonPEu3aqi3DIGSV/T9Bltk7ieEtIaKof5tnxbQwD5Cfi43PBiZjQ1sCIj3NFJL++3ohZN
+        GeYYelDDcmhgojHfCPfOnUz/6r50aOaoqcKdpgQud/+1qCw65yH+sYVb+PKE8l+XfUTb2Kdi/0DEcjQYjS0VfndJCaZY0QTwLTkBxoKseguLFPEwV0w29aNwF8edw7Pz
+        nogTMmx9lS9YsYWjEtkLa4TUT0gBZKzrQpl7Ij2BTcTPWMLi+uqmWXtT0Wll3yldkT2pnEspspRqO8VAiTOlvekfjq+Louj9C9YDvmwAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+        AERDIEJsb2NrZXIgLSAxMDAlIC0zNmRiL29jdCBhdHRlbnR1YXRvbiAtIG5vIHBhbm9yYW1hABAAAAA=
+      >
+      PRESETNAME "DC Blocker - 100% -36db/oct attentuaton - no panorama"
+      FLOATPOS 0 0 0 0
+      FXID {44774E9D-D262-F74C-B357-3577A720177E}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST3: MUtility (MeldaProduction)" MUtility.vst3 0 "" 1423054497{4D656C646170726F4D7574694D757469} ""
+        oRbSVO5e7f4IAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAQAAAABAAAAAAAAAAIAAAAAAAAA
+        BAAAAAAAAAAIAAAAAAAAABAEAAABAAAAAAAQAA==
+        AAIAAAEAAAB42oWSTU7DMBCFjcQFuEGlbkGhBYpYoTQtUiUsCuEn22kzTSyMJ7InpWXBmbkB2KFULVQiu3nPee/zyEL2s0w+sNKKlw6ZlSmciNuisxe3KzAaXrsiF6uv
+        kcjCC2ic8S7dqqLcMgZJX9P0GW2TuJ4S0hoqh/m2fFtDAPkJ+Ljc8GJmNDWwIiPc0Ukv77eiFk0Z5hh6UMNyaGCiMd8I986dTP/qvnRo5qipwp2mBC53/7WoLDrnIf6x
+        hVv48oTyX5d9RNvYp2L/QMRyNBiNLRV+d0kJpljRBPAtOQHGgqx6C4sU8TBXTDb1o3AXx53Ds/OeiBMybH2VL1ixhaMS2QtrhNRPSAFkrOtCmXsiPYFNxM9YwuL66qZZ
+        e1PRaWXfKV2RPamcSymylGo7xUCJM6W96R+Or4ui6P0L1gO+bAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAeNqFkk1OwzAQhY3EBbhBpW5BoQWKWKE0LVIlLArhJ9tpM00sjCeyJ6VlwZm5Adih
+        VC1UIrt5z3nv88hC9rNMPrDSipcOmZUpnIjborMXtyswGl67Iherr5HIwgtonPEu3aqi3DIGSV/T9Bltk7ieEtIaKof5tnxbQwD5Cfi43PBiZjQ1sCIj3NFJL++3ohZN
+        GeYYelDDcmhgojHfCPfOnUz/6r50aOaoqcKdpgQud/+1qCw65yH+sYVb+PKE8l+XfUTb2Kdi/0DEcjQYjS0VfndJCaZY0QTwLTkBxoKseguLFPEwV0w29aNwF8edw7Pz
+        nogTMmx9lS9YsYWjEtkLa4TUT0gBZKzrQpl7Ij2BTcTPWMLi+uqmWXtT0Wll3yldkT2pnEspspRqO8VAiTOlvekfjq+Louj9C9YDvmwAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+        AERDIEJsb2NrZXIgLSAxMDAlIC0zNmRiL29jdCBhdHRlbnR1YXRvbiAtIG5vIHBhbm9yYW1hABAAAAA=
+      >
+      PRESETNAME "DC Blocker - 100% -36db/oct attentuaton - no panorama"
+      FLOATPOS 0 0 0 0
+      FXID {E660DCD1-89D9-7D4C-8FBB-37FA3B6DA159}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.vst.dylib 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
+        IQAAAAUAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D+amZmZmZnpPwEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D+amZmZmZnpPwEEAAAAAAAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAA
+        AAAAAAAAAAAAAgAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {458C21D5-34AB-9741-A35B-1FA69813E743}
+      <PROGRAMENV 18:_Global_Gain 0 "Global Gain / ReaEQ"
+        PARAMBASE 1
+        LFO 1
+        LFOWT 1 -1
+        AUDIOCTL 0
+        AUDIOCTLWT 1 1
+        LFOSHAPE 0
+        LFOSYNC 0 0 0
+        LFOSPEED 125.060576 0
+        MODWND 0 511 285 898 670
+      >
+      WAK 0 0
+    >
+  >
+  <EXTENSIONS
+  >
+>

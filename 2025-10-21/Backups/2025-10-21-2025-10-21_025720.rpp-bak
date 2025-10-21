@@ -1,0 +1,2798 @@
+<REAPER_PROJECT 0.1 "7.38/OSX64-clang" 1761011840
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 4249
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 14
+  ZOOM 5.61285410626596 0 0
+  VZOOMEX 6 192
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    Y2FsZhAAAAAIAAAA
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_TRIM 0 0 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 86 0
+  SELECTION2 86 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 1 1 0 -1
+  MASTERHWOUT 2 0 1 0 0 1 0 -1
+  MASTERHWOUT 6 0 1 0 1 0 0 -1
+  MASTERHWOUT 4 0 1 0 0 1 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERFXLIST
+    WNDRECT 633 259 807 444
+    SHOW 0
+    LASTSEL 2
+    DOCKED 0
+    BYPASS 0 0 0
+    <VST "VST3: MUtility (MeldaProduction)" MUtility.vst3 0 "" 1423054497{4D656C646170726F4D7574694D757469} ""
+      oRbSVO5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAABAEAAABAAAAAAAQAA==
+      AAIAAAEAAAB42oWQ3UoDMRCFp+AL+AaFvVXW9afilaTbCgWD1fVnb9Nm3AZjpkxmS9sLn9k3UHYt0qpg7nJOcuabA7pflvpBnHeyiijiQhVBJZB1VDLI+56mL8i7t5y8
+      N/OIdle+rU0TAhba83655SkRDLURRwHi4UnP9rtpl6ZiFggqGaA3q2EwE492KxxUcqeL33pHJcOwQE9z/NPURmZ//1rOGWN0FP6xIS5BJTnZH8s+Irf2Keztg9KjwWjM
+      VLF5zWcmVBuaBnxHzo1gRezWTZGghtYJceHWCPHiKDs4O++ByikIk/fIccPWPNUoyPEboRBkpAZk7OvKhXsiPzHbiB9Km+X11U1bezsi65ZfKcdQPjkrMw1lQTVPsaHE
+      Z+cF2YUKMkjT9O0THXOu+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAeNqFkN1KAzEQhafgC/gGhb1V1vWn4pWk2woFg9X1Z2/TZtwGY6ZMZkvbC5/ZN1B2
+      LdKqYO5yTnLmmwO6X5b6QZx3sooo4kIVQSWQdVQyyPuepi/Iu7ecvDfziHZXvq1NEwIW2vN+ueUpEQy1EUcB4uFJz/a7aZemYhYIKhmgN6thMBOPdiscVHKni996RyXD
+      sEBPc/zT1EZmf/9azhljdBT+sSEuQSU52R/LPiK39ins7YPSo8FozFSxec1nJlQbmgZ8R86NYEXs1k2RoIbWCXHh1gjx4ig7ODvvgcopCJP3yHHD1jzVKMjxG6EQZKQG
+      ZOzryoV7Ij8x24gfSpvl9dVNW3s7IuuWXynHUD45KzMNZUE1T7GhxGfnBdmFCjJI0/TtEx1zrvgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+      ADAAEAAAAA==
+    >
+    PRESETNAME 0
+    FLOATPOS 0 0 0 0
+    FXID {C9AEA54B-F347-0245-A6E5-B93597AF2FB2}
+    WAK 0 0
+    BYPASS 0 0 0
+    <VST "VST3: MUtility (MeldaProduction)" MUtility.vst3 0 "" 1423054497{4D656C646170726F4D7574694D757469} ""
+      oRbSVO5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAABAEAAABAAAAAAAQAA==
+      AAIAAAEAAAB42oWQ3UoDMRCFp+AL+AaFvVXW9afilaTbCgWD1fVnb9Nm3AZjpkxmS9sLn9k3UHYt0qpg7nJOcuabA7pflvpBnHeyiijiQhVBJZB1VDLI+56mL8i7t5y8
+      N/OIdle+rU0TAhba83655SkRDLURRwHi4UnP9rtpl6ZiFggqGaA3q2EwE492KxxUcqeL33pHJcOwQE9z/NPURmZ//1rOGWN0FP6xIS5BJTnZH8s+Irf2Keztg9KjwWjM
+      VLF5zWcmVBuaBnxHzo1gRezWTZGghtYJceHWCPHiKDs4O++ByikIk/fIccPWPNUoyPEboRBkpAZk7OvKhXsiPzHbiB9Km+X11U1bezsi65ZfKcdQPjkrMw1lQTVPsaHE
+      Z+cF2YUKMkjT9O0THXOu+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAeNqFkN1KAzEQhafgC/gGhb1V1vWn4pWk2woFg9X1Z2/TZtwGY6ZMZkvbC5/ZN1B2
+      LdKqYO5yTnLmmwO6X5b6QZx3sooo4kIVQSWQdVQyyPuepi/Iu7ecvDfziHZXvq1NEwIW2vN+ueUpEQy1EUcB4uFJz/a7aZemYhYIKhmgN6thMBOPdiscVHKni996RyXD
+      sEBPc/zT1EZmf/9azhljdBT+sSEuQSU52R/LPiK39ins7YPSo8FozFSxec1nJlQbmgZ8R86NYEXs1k2RoIbWCXHh1gjx4ig7ODvvgcopCJP3yHHD1jzVKMjxG6EQZKQG
+      ZOzryoV7Ij8x24gfSpvl9dVNW3s7IuuWXynHUD45KzMNZUE1T7GhxGfnBdmFCjJI0/TtEx1zrvgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+      ADAAEAAAAA==
+    >
+    PRESETNAME 0
+    FLOATPOS 0 0 0 0
+    FXID {A962051D-92B1-B049-97BB-296F1D86CB2B}
+    WAK 0 0
+    BYPASS 0 0 0
+    <VST "VST: ReaEQ (Cockos)" reaeq.vst.dylib 0 "" 1919247729<56535472656571726561657100000000> ""
+      cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
+      IQAAAAUAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D+amZmZmZnpPwEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+      8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D+amZmZmZnpPwEEAAAAAAAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAA
+      AEACAABrAQAAAgAAAA==
+      AAAQAAAA
+    >
+    FLOATPOS 0 0 0 0
+    FXID {1A0039F2-2337-7348-88AA-668398643281}
+    WAK 0 0
+  >
+  <MASTERPLAYSPEEDENV
+    EGUID {9DFE7B75-98F9-0A46-81CE-41F29CB92DEB}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {E5BAA052-257D-A54F-8A04-C796392F3811}
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {B03D3930-E458-7A48-B7B1-B0997687CDC9}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B03D3930-E458-7A48-B7B1-B0997687CDC9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 563 341 877 451
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS loser/WhiteNoise ""
+        -120 -12 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9ED38AAC-2809-B84A-93B2-807BEA70D132}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST3: MBandPass (MeldaProduction)" MBandPass.vst3 0 "" 943283377{4D656C646170726F4D4261404D426140} ""
+        sVw5OO5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAABACAAABAAAAAAAQAA==
+        AAEAAAEAAAB42lWOzUoDMRSFr+ALzBsUuhWmqaVuzYwtLRgMjGi2aXNNQ9PccpOidCG+hHvfVBmrgsvzw3cOqMYY1djktM05Yykh+QxyCOJMDhd6luwq4o+Yg3v7qJ/f
+        q+q6l12kPUJe6IEYj0A+IOdACSZwXoFUy5ulZvJsd+3GJo+/JJD/7NYW9MThiNxnMxcKcReOCHk6mV5cXo1AtpQKU4zI+URxfVVhQc4txWj3GV1XkJH6pzoefEj3RHFl
+        +S8H8SmVfbmd3zWR1tvvCTEwJ8oYzGNwZaPAdHTgNfYv8SnEghySBwF1Xb9+AcG6YaMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAB42lWOzUoDMRSFr+ALzBsU
+        uhWmqaVuzYwtLRgMjGi2aXNNQ9PccpOidCG+hHvfVBmrgsvzw3cOqMYY1djktM05Yykh+QxyCOJMDhd6luwq4o+Yg3v7qJ/fq+q6l12kPUJe6IEYj0A+IOdACSZwXoFU
+        y5ulZvJsd+3GJo+/JJD/7NYW9MThiNxnMxcKcReOCHk6mV5cXo1AtpQKU4zI+URxfVVhQc4txWj3GV1XkJH6pzoefEj3RHFl+S8H8SmVfbmd3zWR1tvvCTEwJ8oYzGNw
+        ZaPAdHTgNfYv8SnEghySBwF1Xb9+AcG6YaMAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        ADAAEAAAAA==
+      >
+      PRESETNAME 0
+      FLOATPOS 0 0 0 0
+      FXID {0D03F009-C582-EA4F-901F-5432E0E0EAFF}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.vst.dylib 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
+        IQAAAAUAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D+amZmZmZnpPwEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D+amZmZmZnpPwEEAAAAAAAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAACCsoOs/AAAA
+        AEACAABrAQAAAgAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A620FBAF-2DB7-734E-90E4-2BA517861CF4}
+      <PROGRAMENV 15:_Global_Gain 0 "Global Gain / ReaEQ"
+        PARAMBASE 1
+        LFO 1
+        LFOWT 0.55 -1
+        AUDIOCTL 0
+        AUDIOCTLWT 1 1
+        LFOSHAPE 0
+        LFOSYNC 1 0 0
+        LFOSPEED 0.25 0
+      >
+      WAK 0 0
+    >
+  >
+  <TRACK {E5144EC7-C711-A143-904B-A511C990182A}
+    NAME "ALL F"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E5144EC7-C711-A143-904B-A511C990182A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 308 68 1132 657
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST3: MUtility (MeldaProduction)" MUtility.vst3 0 "" 1423054497{4D656C646170726F4D7574694D757469} ""
+        oRbSVO5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAABAEAAABAAAAAAAQAA==
+        AAIAAAEAAAB42oWQ3UoDMRCFp+AL+AaFvVXW9afilaTbCgWD1fVnb9Nm3AZjpkxmS9sLn9k3UHYt0qpg7nJOcuabA7pflvpBnHeyiijiQhVBJZB1VDLI+56mL8i7t5y8
+        N/OIdle+rU0TAhba83655SkRDLURRwHi4UnP9rtpl6ZiFggqGaA3q2EwE492KxxUcqeL33pHJcOwQE9z/NPURmZ//1rOGWN0FP6xIS5BJTnZH8s+Irf2Keztg9KjwWjM
+        VLF5zWcmVBuaBnxHzo1gRezWTZGghtYJceHWCPHiKDs4O++ByikIk/fIccPWPNUoyPEboRBkpAZk7OvKhXsiPzHbiB9Km+X11U1bezsi65ZfKcdQPjkrMw1lQTVPsaHE
+        Z+cF2YUKMkjT9O0THXOu+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAeNqFkN1KAzEQhafgC/gGhb1V1vWn4pWk2woFg9X1Z2/TZtwGY6ZMZkvbC5/ZN1B2
+        LdKqYO5yTnLmmwO6X5b6QZx3sooo4kIVQSWQdVQyyPuepi/Iu7ecvDfziHZXvq1NEwIW2vN+ueUpEQy1EUcB4uFJz/a7aZemYhYIKhmgN6thMBOPdiscVHKni996RyXD
+        sEBPc/zT1EZmf/9azhljdBT+sSEuQSU52R/LPiK39ins7YPSo8FozFSxec1nJlQbmgZ8R86NYEXs1k2RoIbWCXHh1gjx4ig7ODvvgcopCJP3yHHD1jzVKMjxG6EQZKQG
+        ZOzryoV7Ij8x24gfSpvl9dVNW3s7IuuWXynHUD45KzMNZUE1T7GhxGfnBdmFCjJI0/TtEx1zrvgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+        ADAAEAAAAA==
+      >
+      PRESETNAME 0
+      FLOATPOS 0 0 0 0
+      FXID {AFCF1126-6FC6-2E4E-9264-F47E48327D90}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.vst.dylib 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
+        IQAAAAUAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D+amZmZmZnpPwEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D+amZmZmZnpPwEEAAAAAAAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAAAAAAAA
+        AEACAABrAQAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E2E9A847-2227-984B-AF1B-D76939408C62}
+      <PROGRAMENV 15:_Global_Gain 0 "Global Gain / ReaEQ"
+        PARAMBASE 0.632
+        LFO 1
+        LFOWT 0.35 -1
+        AUDIOCTL 0
+        AUDIOCTLWT 1 1
+        LFOSHAPE 0
+        LFOSYNC 1 0 0
+        LFOSPEED 0 0
+        MODWND 0 906 68 1293 453
+      >
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST3: MFreqShifter (MeldaProduction)" MFreqShifter.vst3 0 "" 1360924857{4D656C646170726F4D4165464D416546} ""
+        uRAeUe5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAEAIAAAEAAAAAABAA
+        AAEAAAEAAAB42lWP0UoDMRBFp+AP+AeCr0KMqNQnSdctFFy6mEWDb+nuNBtMM+skBemD3+qfKLtFwXm7c4d7z0C1MKZaMr7r3m8zcsKcfXQJ1DnImXpGTp4iXMPJKahq
+        9bCqmRzbXdHb6LCMdhMQJKh/68JmdMT+gDx6ZeczsfYHhDS/nV/cXN6BKihmphCQ0zGlG08rHBkKCsEOCTudkZFGkDrsnY8NUdhY/vNBfqvKfjwu14tA7dtUIc/MMeUK
+        zIvvcl+B0bTnFkdK3PqQkX10IEEIYXRvBwSlm7Kun0pdNiDBvBLtQJj1gGyzp5hA1ZTy77uzSenWBoQOpvm6F+LzB1r/bPEAAAEAAAAAAAB42lWP0UoDMRBFp+AP+AeC
+        r0KMqNQnSdctFFy6mEWDb+nuNBtMM+skBemD3+qfKLtFwXm7c4d7z0C1MKZaMr7r3m8zcsKcfXQJ1DnImXpGTp4iXMPJKahq9bCqmRzbXdHb6LCMdhMQJKh/68JmdMT+
+        gDx6ZeczsfYHhDS/nV/cXN6BKihmphCQ0zGlG08rHBkKCsEOCTudkZFGkDrsnY8NUdhY/vNBfqvKfjwu14tA7dtUIc/MMeUKzIvvcl+B0bTnFkdK3PqQkX10IEEIYXRv
+        BwSlm7Kun0pdNiDBvBLtQJj1gGyzp5hA1ZTy77uzSenWBoQOpvm6F+LzB1r/bPEA
+        ADAAEAAAAA==
+      >
+      PRESETNAME 0
+      FLOATPOS 0 0 0 0
+      FXID {60B059CD-28BC-1046-AB05-B01944956206}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST3: MCompressor (MeldaProduction)" MCompressor.vst3 0 "" 886559297{4D656C646170726F4D4165314D416531} ""
+        QdLXNO5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAABAEAAABAAAAAAAQAA==
+        AAIAAAEAAAB42mWQS0oDQRCGS/ACAQ8gZCuM7QPdmZ4xgUBGgxGZpRWn7Wns6RqqOxCzcOHClUHP42nEhWtvoMwkwVetiv//+OsBaZxlaUJlxcp7Yq9CME57kG0Qa7LN
+        GAxBDk1tdOSFYm/IwR6st0Cm/eP+kEkzlkmBTquuw7FVIED+khMMShObmeLa6+YmEI/MTIE/PBBb+9u7IBNygclaxX6RkjcxdqKNOyeyY+SErMXK186nTHE66J3Glq5u
+        miSxKQdno8qaEFSTLZZrXz53/jg7S6e478gC7bVG4+phWNbQJFeLqwVkmrEqQKaUK/AnxCVayIZkXADZs6h9DOIpWinT1aNej+Ttj35FPv4nPxpy8v7y0MK3b3IeRXdf
+        25N/3QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAeNplkEtKA0EQhkvwAgEPIGQrjO0D3ZmeMYFARoMRmaUVp+1p7OkaqjsQs3DhwpVB
+        z+NpxIVrb6DMJMFXrYr///jrAWmcZWlCZcXKe2KvQjBOe5BtEGuyzRgMQQ5NbXTkhWJvyMEerLdApv3j/pBJM5ZJgU6rrsOxVSBA/pITDEoTm5ni2uvmJhCPzEyBPzwQ
+        W/vbuyATcoHJWsV+kZI3MXaijTsnsmPkhKzFytfOp0xxOuidxpaubpoksSkHZ6PKmhBUky2Wa18+d/44O0unuO/IAu21RuPqYVjW0CRXi6sFZJqxKkCmlCvwJ8QlWsiG
+        ZFwA2bOofQziKVop09WjXo/k7Y9+RT7+Jz8acvL+8tDCt29yHkV3X9uTf90AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+        ADAAEAAAAA==
+      >
+      PRESETNAME 0
+      FLOATPOS 0 0 0 0
+      FXID {AB2AAFCC-4761-6E40-91AB-39B946D5AA26}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaXcomp (Cockos)" reaxcomp.vst.dylib 0 "" 1919252579<5653547265786372656178636F6D7000> ""
+        Y3hlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAA1AAAAAEAAAAAAAAA
+        OAAAAAMAAAAWHBCfUDljQAAAAAAAAPA/5RhLMTc5wT81ZDxKJfz3P0w3iUFg5QBAHAAAAOMAAABkAAAAFgAAAIj5uAEDy7dAAAAAAAAA8D8ZAIuTdZ3BPzVkPEol/Pc/
+        AAAAAAAAAAAlAAAAqwAAAJwAAAAWAAAA/f////9v10AAAAAAAADwPzTkusM08sA/NWQ8SiX89z8X2c73U+P1PwwAAAAzAAAAUAAAABYAAAABAAAAAQAAAAEAAAAAAPA/
+        AAAAAAAAAAAAAAAAAQAAAAIAAAA=
+        AGdyaXo6IHN1cGVyIHNtb290aCAzIGJhbmQAAAAAAA==
+      >
+      PRESETNAME "griz: super smooth 3 band"
+      FLOATPOS 0 0 0 0
+      FXID {040E10CA-E708-5049-A1F1-1AC7BC6E23E1}
+      WAK 0 0
+    >
+  >
+  <TRACK {2999B85F-6B8D-E848-A8AF-8C702570937C}
+    NAME "8k F"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 1 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2999B85F-6B8D-E848-A8AF-8C702570937C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {C9F692BC-2D27-1A4F-A147-D897F74553C3}
+    NAME "8k 0.1 hz"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C9F692BC-2D27-1A4F-A147-D897F74553C3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 55 554 785 289
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 8000.1 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {96B8D5D6-3F98-A74A-A1FD-489AD7714F0E}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 8000.2 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {39AC122A-BF77-8B4C-AF5A-475AEDBD46B4}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 8000.3 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {1558A05A-1C10-CB4B-82A9-055A0E8A7EF2}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 8000.4 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {4DBB5F1E-A577-6D49-A725-87DEC6AE7265}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 8000.5 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {10215265-A41A-5044-9DF7-3605599675F7}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 8000.6 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {1AD5CBFD-6975-E645-937C-7A1083B1D9DE}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 8000.7 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {BE1EF21D-FEA1-C445-8964-06533D00CF3B}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 8000.8 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D8C6A93B-92E0-674C-A86C-B8FEBFD0BAD8}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 8000.9 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {6B654866-2FC0-1B45-BFE8-73CBD4F5C7B6}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 8001 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {013A8510-B7F7-484C-B107-1E56C10376B0}
+      WAK 0 0
+    >
+  >
+  <TRACK {E66EEFCD-84DF-9645-BFCA-15DBB5DBF719}
+    NAME "8k 1hz"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E66EEFCD-84DF-9645-BFCA-15DBB5DBF719}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 55 573 785 270
+      SHOW 0
+      LASTSEL 8
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 8001 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D8BAC315-2AE8-8D49-B9E2-46C2BC242446}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 8002 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {78105509-2AB6-3C43-AD0C-F5A7EA067B96}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 8003 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {7C789355-8EC6-2D41-9899-5545E212FFCE}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 8004 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {54E17EA5-15CA-B54A-B265-F7B2C41BC41A}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 8005 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {42AF3A74-0E17-794F-B1D4-BAB6D7EEB01A}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 8006 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E5762F13-20CF-394D-9021-6B75EF103B58}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 8007 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {10138B81-3034-6146-96AA-B3E8EAA6DDE1}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 8008 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C164F865-EFF7-A543-9259-953903365F4A}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 8009 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {0F0A28AC-0348-9A4E-B442-F3AA408C532D}
+      WAK 0 0
+    >
+  >
+  <TRACK {2AE40186-6298-6247-94E2-09446A2738DE}
+    NAME "4K F"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 1 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2AE40186-6298-6247-94E2-09446A2738DE}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {F05E51EE-0038-9B4D-9A88-BB7888CA99B4}
+    NAME 4000-4026
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 1 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F05E51EE-0038-9B4D-9A88-BB7888CA99B4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 55 287 785 556
+      SHOW 0
+      LASTSEL 19
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4000 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D882FE7B-9425-5044-9CCA-B075D4D5CE99}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4001 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {078D50C9-E33B-0E4B-A13A-F9F1286F32B9}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4002 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {005AB393-DF3D-614C-BAB6-9B900E7146BC}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4003 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {7591E473-E40B-F941-A435-AE34A7E2B725}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4004 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {CCC14264-3B75-AA48-BB3C-497E0B8FF21E}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4005 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A89339FC-8032-0747-B8C2-3010170C52E8}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4006 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {81C6AA4B-3FCD-8B48-9893-8BAE7FFCA329}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4007 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {65173FF8-AD4C-C040-8CB6-15556E6F9CA8}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4008 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C50E59E2-194D-2B4C-B432-B89935D68042}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4009 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {965D143A-20A0-F946-A60F-4A56BF7A77D1}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4010 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {7C682EAE-9087-2045-AB8E-D56D482D1CF6}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4011 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {69E4746E-7B37-9C47-8C2B-739DB6B354B8}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4012 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2ED9A725-0FAE-D046-A30C-46F676421834}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4013 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F335AF82-23E2-7F42-8CB5-D6917B06527E}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4014 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9B822699-860B-7442-8B39-E12985246FD5}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4015 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {865D1B90-A0F0-9D42-A8D0-00B433CDD258}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4016 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {221B6608-9879-4842-8941-49E6A702A945}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4017 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C0D6647B-4631-ED4B-B3DD-FF36D3574516}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4018 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F426ABB5-F7DD-D14F-821E-42099137FE02}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4019 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2CB098BB-70C6-1C47-9727-8D357E144645}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4020 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B5A90A18-7E03-A24E-8E69-A8AB2D745A06}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4021 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E340BCF5-CB99-3240-B020-7253541B4A91}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4022 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E1005141-98D0-9D4E-AF29-8C55BB6C86DE}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4023 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E24F87E1-A24C-814F-889E-6ED485974D4F}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4024 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9B694757-BE1E-9F49-B936-C0F939B026FC}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4025 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {20A2AF9F-6CAC-FE42-9DEF-62C21018F532}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4026 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A25E935A-28B1-9D41-8BC9-B89D6C8F4098}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4027 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9C6361B1-56C9-4045-BB16-6747091C96F0}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4028 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {FD834C08-F99D-1D43-8B77-5A8B3A5FFC0B}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4029 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {80AC6F9D-9540-F645-B7A1-28047A4FEDB9}
+      WAK 0 0
+    >
+  >
+  <TRACK {E74FFD29-5394-8F4D-849A-9AB421209FC6}
+    NAME "3K F"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 1 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 1 -1 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E74FFD29-5394-8F4D-849A-9AB421209FC6}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {AB54BF17-3D4C-8540-8AAA-831F32DCC8E3}
+    NAME 3000-3023
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 1 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {AB54BF17-3D4C-8540-8AAA-831F32DCC8E3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 55 288 785 555
+      SHOW 0
+      LASTSEL 23
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3000 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A78B89DE-809C-764B-9C20-8A1005B08DC7}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3001 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {03C01429-C1F9-5F49-94BB-873F9A75A4A3}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3002 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {92F80473-0925-144C-A95D-7B8EA0070907}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3003 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {CC727FA2-331D-9C49-A6CC-F8B08CD4B930}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3004 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {296798C4-985D-F348-9D7C-65144FF7158F}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3005 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {458D35B0-D5D0-C54B-AE54-BFC69982C6FC}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3006 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {08BF0DB0-524B-BF4A-819D-8C32703DEE86}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3007 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {8B473790-03CB-1A48-A4E1-176F4FB10024}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3008 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D946AD9F-ECEB-044C-A723-2EAA844CB2B0}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3009 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9A3A455D-18D9-7249-8FEC-D97600660576}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3010 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {7A25AD4B-2658-FB40-BA54-8C3ADC9AF635}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3011 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A26F3B49-1DC0-9643-A5AF-82595814DE99}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3012 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {1E45798D-0220-AC48-A928-F6A0A83BC9D4}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3013 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {05EDC5D1-91A2-5141-9BD2-57BFA488FB70}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3014 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9E5818A6-077F-9346-8596-1254F6603906}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3015 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B3300AF8-9875-4A42-AF3B-CF9F2C0BA772}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3016 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {DE8B8FAF-8C88-954C-BDEC-13B4F1786FED}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3017 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {34C93251-B615-094B-8FCC-C749E2C04DB7}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3018 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2D2B917C-8482-614C-8516-A3E8BCAB495B}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3019 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {AC159AB8-7AA5-6F44-8498-CAE578B0980F}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3020 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {921F034C-1D42-BA45-A71E-4FC5B33D86B4}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3021 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B9B51F0C-3480-9C47-8373-0AF5457840A0}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3022 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {EE41E6C8-7943-7E48-8FCE-9740A3207B66}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3023 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {60C5B8F1-B2D5-D147-8CF9-41DFFFAB92AA}
+      WAK 0 0
+    >
+  >
+  <TRACK {34026997-9EA0-4447-98F5-40CF67D2AD41}
+    NAME "2K F"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 1 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {34026997-9EA0-4447-98F5-40CF67D2AD41}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {99C95601-5DC4-764F-835B-7D990E87200E}
+    NAME 2000-2023
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 84 1 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {99C95601-5DC4-764F-835B-7D990E87200E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 55 307 785 536
+      SHOW 0
+      LASTSEL 22
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2000 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {19ABFEFC-8937-A24C-911C-872B4819DB2A}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2001 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {396550D4-73F4-954D-B460-EE4F1BF48BFF}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2002 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B0B374B5-357E-FB4A-8A92-7A8A39A38F05}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2003 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {60973899-158C-6942-A5EF-3BA627EA413E}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2004 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {BEA3DE46-622A-2544-A114-FC7BD2DA13C3}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2005 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {BA072DA3-49D3-5848-AC0F-31A936BBA687}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2006 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C70D5299-FE17-B34C-BF07-01C6FDFF17CD}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2007 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {295DA272-D751-574C-891F-35947DC8BFF3}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2008 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B713A89E-A05E-AD44-B2F2-DB20D49FDBD4}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2009 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {8A1301B0-C8FD-DD4A-9ECB-9B1F92A30410}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2010 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {7BF004BD-34E5-B94C-A62A-E32E2AAA5148}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2011 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {26770517-483E-F442-B4D2-FA1D47CA9BD0}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2012 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {15E6890F-404C-5D42-BFE8-DB7E72E4725D}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2013 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {DE877EDA-52CD-FA4A-AF54-506943067B5F}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2014 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {1481841F-37AB-8842-8750-52F26171AE15}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2015 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {4193C423-AB50-DB43-997A-FECAFE37D61F}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2016 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {1049F7BC-833F-8846-BABE-A1A8195853A8}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2017 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {42729D94-2446-D346-A3DB-FD25605AE561}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2019 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A3A79AB9-35A7-354A-97F3-ADF5C349DC96}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2020 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C4A71983-CC2C-6546-A78B-58ABD66F70AE}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2021 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {598E1441-EEDB-3A46-91B8-1E685A0FB37C}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2022 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {86FBC3B3-36FB-4242-B381-D7049DC7AE01}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2023 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D7AB7062-8487-7244-9F7E-ED1C4889F149}
+      WAK 0 0
+    >
+  >
+  <TRACK {8E09E498-3A06-3242-95BB-A819CA0D4161}
+    NAME "1K F"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 1 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8E09E498-3A06-3242-95BB-A819CA0D4161}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {83CF2A92-9E81-D946-B4A3-F8842CB1AB0F}
+    NAME 1000-1026
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 1 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 4
+    FX 1
+    TRACKID {83CF2A92-9E81-D946-B4A3-F8842CB1AB0F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 84 305 785 556
+      SHOW 0
+      LASTSEL 25
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1000 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {5E78798C-60D2-6B41-B245-07EA69DEE649}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1001 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {7B2E78B4-BE28-0A4B-9A6E-30898E268620}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1002 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2E386526-D649-1041-A692-2DD96FC55A97}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1003 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E414AD50-AD17-6147-96DC-3D8EA0E01A6A}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1004 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {DA93EBEB-29D8-094D-B749-2172FDF2A22E}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1005 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {BA337DA3-50C7-6541-86E0-4A2EC11299ED}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1006 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {32FC7328-BCA8-6346-AE30-2402338A910A}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1007 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {119C2A55-B926-FB40-A1C6-8472D2DCD2EB}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1008 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9C8FB782-1DE5-E249-8C28-DD5564A14F03}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1009 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {32C0CA7C-3BD3-F040-B2D3-3CA3877593AC}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1010 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {3DE717A1-B5E8-1F49-AB0B-7A945C3F98A2}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1011 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2C9A6BF3-A93E-6C42-BAA4-2256AED11C62}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1012 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F8005AC7-B80B-074C-A6F6-3EDDB72664A3}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1013 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {8E1C9AE1-ABE3-E54A-9745-BA0D3F39EF4A}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1014 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {19698849-3FFA-EC47-8B54-82463663DA6B}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1015 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B6457C09-718C-F848-B1C3-53F4314AF8D8}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1016 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {092FFE1B-09E3-1E45-A45E-B2ACD7992A0C}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1017 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {EC8D7416-0E7A-3649-8699-C2E07961DDD0}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1019 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B3D833F7-C2FB-CC44-A7D0-696E789F49BA}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1020 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {EB6B0167-B516-5C4C-A3F0-65E2AC4B6830}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1021 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {78D12AB9-E225-7B4D-8725-F9B0B0257CD4}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1022 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {0B6C8E4E-D2BB-1744-8F41-1E27FCF1369B}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1023 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {FF3E063C-81F3-4B48-B6A8-023AD5B106D1}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1024 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D711D0B6-1F11-0340-B143-932C23977D32}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1025 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {5D098700-153D-124E-A3C3-713B9BB64B18}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1026 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D04E103A-E8B6-DA40-B659-7FCE6324D8D5}
+      WAK 0 0
+    >
+  >
+  <TRACK {5DF9268F-5C3C-7F4E-9047-1ACAE32E00C8}
+    NAME 1027-1054
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 1 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 4
+    FX 1
+    TRACKID {5DF9268F-5C3C-7F4E-9047-1ACAE32E00C8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 655 68 785 556
+      SHOW 0
+      LASTSEL 27
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1027 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A3DE6C78-6114-9146-B961-F651690E3568}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1028 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A5C43F32-D470-F84B-9334-C572D8642BCC}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1029 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {071C27D2-E627-B94F-A8BF-4D02677C86F2}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1030 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {83AA9C00-A7A0-F04B-A612-C0B16A2A3BE5}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1031 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {55393105-19E5-5B41-A583-502CDB414364}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1032 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {8E7FAA27-F36D-E340-AB37-0CE7AF0F9F97}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1033 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {5A049BB6-F8AE-5343-BAD8-BCCF942FEC8A}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1034 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {6EA8892E-729B-2040-918C-91FF47B59921}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1035 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F4BBF544-861C-0B4F-8ED9-24356A833734}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1036 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {8FDA9107-9844-574E-985B-DAD4A209230B}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1037 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {446C333B-0987-8449-A9CE-CC16DEFF24EA}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1038 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {36D08D90-41EF-6B46-8817-92559E621C92}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1039 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {239B3A42-0809-5E48-891F-A42D36D3F7F4}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1040 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2FA1B39E-B674-614C-8399-118C0A7FC7E5}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1041 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {8D60576D-D0EE-964E-9AE4-0E0AF0F186C9}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1042 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E53B2D0E-640C-9641-99D9-01EA6F400E9A}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1043 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {633B21AA-FE34-354A-A11F-67FF1B74992E}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1044 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {65FAE956-E385-524F-9346-50D0D1AF4BFE}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1045 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {039BAB88-937E-284B-9656-AD2818713F30}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1046 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {38A0D377-443F-D44B-AE10-43863A3B9CCD}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1047 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {4D164114-74BA-904B-B5FC-BFA6E50DA95F}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1048 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {EDCCE07B-D4C3-1D41-83BC-C110E83035D7}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1049 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {632C44E4-A9C6-8846-B21E-693924AC099D}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1050 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {5D684CC0-1B2F-1640-846B-F788E27234AE}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1051 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {71598E4B-D864-534D-8257-F992D4A5DF1A}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1052 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F8A30022-C8EF-4440-8927-4D0A45C20240}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1053 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2FB0A40A-8CD5-9241-9F28-0FF5B581AD2B}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1054 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B46499FA-A5DB-6D47-8C70-172D42918E38}
+      WAK 0 0
+    >
+  >
+  <TRACK {249B34D7-D174-AE4A-9E28-FB87463019FB}
+    NAME 1200-1223
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 1 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 4
+    FX 1
+    TRACKID {249B34D7-D174-AE4A-9E28-FB87463019FB}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 492 287 785 536
+      SHOW 0
+      LASTSEL 22
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1200 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {AB70C02F-14DF-2E49-8FE1-077F50FF085F}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1201 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {BE36779A-E373-3E4A-9C29-54A80A771EDA}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1202 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {400F65D3-0C13-244F-98BA-B5A0EA278AEC}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1203 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {58488A63-6970-BB49-8E9E-0C519843B485}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1204 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {26E0CB79-5047-1442-90AE-CD7F06F22D49}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1205 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {20CD8993-C77E-5747-9700-A739378D3EB0}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1206 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {8CCFB610-8F80-3946-987B-09B5445201A7}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1207 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {891B8A26-917A-C747-8FA4-A523CC1B329D}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1208 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A856F866-19C9-5247-8437-15CF35A0D4EA}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1209 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {1D167AC5-CD18-7F4A-B82A-C4477576809C}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1210 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {CE1F00EB-0099-C448-84C5-EF74EEE8F4A1}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1211 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {4D4F5320-BC0C-1A4D-B932-669E8236A9A4}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1212 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D6696336-C3CF-9B46-91DE-4330E34F1BAC}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1213 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E4344420-59AA-EA43-BC76-4A66EC0D134E}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1214 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {04F726F9-6459-C640-A03E-43C89648C6FE}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1215 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {DCC77D1C-2487-774C-B129-79CB62F30AFC}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1216 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {95D9AFD3-EA0D-3B49-93A0-8DB06560F552}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1217 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {3A1C8E7B-2340-DD40-AC4C-489AD7508112}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1219 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D6100836-0C57-1649-8030-2015C7B02159}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1220 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {69739EB7-55B8-314B-A01D-0F6B52DF7B9D}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1221 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {5DAD8B12-BA25-AC46-A2E5-67FF7B1490A8}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1222 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2F03A364-174E-3D48-9963-91FAE066E3A4}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1223 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {31BFFCDB-E9D9-E84C-95BC-881FE8B97B38}
+      WAK 0 0
+    >
+  >
+  <TRACK {460FA2F5-4B16-D34A-A238-9550B876C21E}
+    NAME 1500-1523
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 1 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 4
+    FX 1
+    TRACKID {460FA2F5-4B16-D34A-A238-9550B876C21E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 55 307 785 536
+      SHOW 0
+      LASTSEL 22
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1500 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {34846213-5446-E248-83D6-BB5713122380}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1501 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {8B753FA3-99FC-BD4A-87C1-2C96D0D07C2B}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1502 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {CAD78A12-81FF-E740-8686-6F19850C62D2}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1503 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E4AD5FB9-8371-B044-B544-6073257B4D7C}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1504 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {63C785B2-9F35-2C44-8043-8086ADA858ED}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1505 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {73B42B24-4A77-574C-96CE-3D6EE258058B}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1506 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {CE08898B-E592-3544-B572-1D80D6FD2721}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1507 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2AD531D8-32CB-854D-AD72-69B9CA197284}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1508 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {1A3C48A2-869B-774C-AC49-77337DC3EA44}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1509 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {3116944B-14DB-134C-A779-E0AD61C77BAE}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1510 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2FB22CE6-FE8D-F546-8206-8CD6D0766764}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1511 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {EAD66436-AA1B-8D47-B165-762249956D8D}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1512 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {356FB981-AC19-EE4F-B46B-DF798AE50D45}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1513 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A21A807B-DD5F-5946-858C-CFBF68768D5C}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1514 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2C6A7AFF-9FC8-FB47-A19D-5CB49B8A5A76}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1515 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D2E97F69-5F8C-0F41-AC12-D35B2CE30ECE}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1516 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {3CE24939-966B-8646-8350-E553FD8E3EE1}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1517 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D9FDB852-8CB1-7F4C-806A-B5ADB8AA50B4}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1519 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A2F62538-26AD-9F41-9D3C-DD548EBE6533}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1520 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {ABCD1BAC-D670-5D4A-B491-39D1CC619109}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1521 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {241575EE-9409-2D40-A087-8D349338A55E}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1522 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {425241FA-033A-DB42-B354-E25C201A1F0B}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1523 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {DA057E68-287D-6245-B19C-D42C83F6405D}
+      WAK 0 0
+    >
+  >
+  <TRACK {DD92D3BA-EF88-E048-B24E-EB0A705631B0}
+    NAME 1900-1923
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 2 -2
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 1 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DD92D3BA-EF88-E048-B24E-EB0A705631B0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 258 243 785 536
+      SHOW 0
+      LASTSEL 22
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1900 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {BDA5597C-87A8-3646-9F74-F9FD29A55793}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1901 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {244E0458-251D-4244-B296-0B101578E6D5}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1902 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {240B40C2-3899-2643-8FAA-D07968095537}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1903 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {3E4794F4-BBB2-A940-ABA2-1CEA96559D08}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1904 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9AC20315-CF95-414B-9A50-44A8C561415C}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1905 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {28DE2795-8490-A346-8028-FFE5903686E4}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1906 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {8005C01E-3E04-7B4C-8D88-7E7D0C71A982}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1907 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {1DD38EB0-84EB-B544-9235-2A007DF082C9}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1908 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9305503E-7714-4946-87F7-0317A66A33E6}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1909 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9332AE5D-5856-CF46-9254-D03EA061DEFE}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1910 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {4DB5B6AD-ACA9-984B-AD93-9793D677C01E}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1911 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {85BF2435-0673-7444-998E-EE153B32C8A4}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1912 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {19E47562-6A5B-D048-8D21-2C4C1F7113DD}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1913 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {5433C3AD-733B-7B44-AEC6-5C86DC1B293D}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1914 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {CCB1C694-6EE5-E542-BB8C-FC2709B1E3FA}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1915 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {DF0DC2BD-003F-DB4E-A8E3-131A8F2C44BC}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1916 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {0862910A-DF18-C446-BEED-8590683CBA25}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1917 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {CC184536-C1AC-D147-B946-4D1D88862119}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1919 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {1B1C5CD6-501D-8F4F-B72F-35409B9A44B6}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1920 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {470C9EB9-D0AF-9C4B-A46E-5D04D6568085}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1921 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {88ABE487-DB5F-7B4C-BDFD-02AFDFD05448}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1922 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {973F6F82-7A5C-9E4D-AD75-D2051BD79D19}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1923 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {825700AA-8AF2-0742-9BDE-BC7CA2EE6D05}
+      WAK 0 0
+    >
+  >
+  <TRACK {E65DA1C8-6401-A046-8147-8FADF13DD9F6}
+    NAME "1k-3.5k + 50hz"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 1 -1 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E65DA1C8-6401-A046-8147-8FADF13DD9F6}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 655 272 785 556
+      SHOW 0
+      LASTSEL 59
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1000 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {08547352-C0B4-0C46-A6F2-A90DBD9F986F}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1050 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {785C123A-3E96-EE41-B491-909C0350FE69}
+      WAK 0 0
+      NEXT_FX_OVERSAMPLE 4
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1100 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {745591EC-D692-0A40-8E91-083D92039307}
+      WAK 0 0
+      NEXT_FX_OVERSAMPLE 4
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1150 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {571BE5EF-A8F2-8C45-84C8-332E6E3C7C7D}
+      WAK 0 0
+      NEXT_FX_OVERSAMPLE 4
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1200 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {79D7C3D2-0A42-DE4F-AEA9-EBF3863601F1}
+      WAK 0 0
+      NEXT_FX_OVERSAMPLE 4
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1250 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {6A8E2B67-BFAA-0E4B-9677-9DD2475CA1C6}
+      WAK 0 0
+      NEXT_FX_OVERSAMPLE 4
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1300 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {4A84E875-4EC3-C146-BAB2-539948B06BFF}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1350 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2B366F70-3C94-B342-BB66-596059D3EFE9}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1400 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {47337ACE-47B3-CD4A-873B-D88E43781CA1}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1450 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A0A47892-9E17-B043-ACCF-0A494F7A053C}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1500 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {16F41B96-61A3-BA4A-9EC1-77420E413010}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1550 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {99EF4B47-B051-4E4E-B55A-B4810EB49F7D}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1600 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9807E10A-E979-724B-B1D7-2F372BC807C8}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1650 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2EB04F93-0C53-8A46-9B5A-A0FFC77B788F}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1700 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {1C8970D1-AF57-5B43-8377-86D4EE87625D}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1750 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D3F5A628-9EF4-E547-B0BB-39FE4C233367}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1800 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D5FA21F1-B5CA-7A41-82FD-A86D7A42E8D7}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1850 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {CA6C6183-8E3E-694B-9F87-8B7479E546E2}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1900 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {72B5016B-C365-4943-80BC-3CDFFF75E478}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 1950 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {3175127A-BDFF-3949-8539-12CEEF9AEF79}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2000 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {33CF0354-E8F0-0844-AC22-36BF96D904A3}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2050 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F3548DDB-1173-6C47-A948-5FA2D502204F}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2100 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {987E7E95-A08D-4644-A33D-EDD3DFBCFA52}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2150 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F7755DCD-C20E-5446-BD17-0E471BD71392}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2200 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {0E311C2F-7402-B94B-BB02-62587019B317}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2250 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {50352806-1993-684F-91AE-5EAFDAC09EC7}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2300 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2ACAC1FF-54E5-3B4B-8D5A-1965AD1532E5}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2350 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {051BA27D-D9FF-F94E-B60D-C2916C71709F}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2400 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {BBC0FEEF-CC56-3244-86E4-51E8A935897E}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2450 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {406D17D8-5EC7-D943-8BB9-4551FCD9EAD8}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2500 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {1FD63A9D-C26D-8E43-8BB4-C522FF16658F}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2550 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {72DAE917-C5D2-2143-9DC8-4AB76B1B752D}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2600 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {3CE5340E-1973-7049-AFD5-34EA2119060F}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2650 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {3FF349AD-EF37-D84C-A69F-E73193F56B52}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2700 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {ADD0FB7B-7C92-AA41-8ABB-8EE97FC80CA3}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2750 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {18BCDFC4-65E4-364F-82D4-82A953A255E5}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2800 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {FF2633E1-5149-4340-9421-0CC3B17A24B8}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2850 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {83C73C60-863E-6E43-9DE7-E0A936916867}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 2950 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A38BA2A9-1166-2540-866E-B8EE7FE0D31D}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3000 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {69F78F25-61BC-D245-BCD9-188512D6A9B4}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3050 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {666384F0-773F-F445-91A8-70E773C04DB8}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3100 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B182A763-B8EF-864E-BDF8-05498B4B6EFF}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3150 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {5F02EC33-44E5-1641-BD51-FEC7EA9538EE}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3200 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {FB20287E-E31E-0444-9B43-883FFDEB61E2}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3250 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {ECC48490-BE92-6C4A-BA47-9A6EE15AC090}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3300 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2EB180C6-36A3-C442-BD0C-CB1E66328944}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3350 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B9E6E66E-19AD-7346-873E-230D35A75033}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3400 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {32CD242F-B968-0442-A3D7-30291AAA3C4E}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3450 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {0959596C-F363-AF4E-89E5-944918E81F19}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3500 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E34E18E7-4D10-B144-B029-97FD49486D03}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3550 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {6A932044-52BA-B846-B808-74834B698EEB}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3600 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B6A01450-BC30-0141-9353-AB070A122890}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3650 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B868EC59-72EA-DD40-8E9C-116305571D33}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3700 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {7EE10AF2-915A-8743-90C6-8F5B60016F00}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3750 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {7DCAEA5F-5918-FB40-8955-81EE248AF140}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3800 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D58708B9-13C0-104E-8435-BA999F7E296D}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3850 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F6F29C7E-3F1C-0D42-B388-6F50E8F9DE4A}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3900 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {21232291-9BF3-CA45-A9FA-923BA3806925}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 3950 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B137E69C-3C9D-BE44-89E7-DB4E65740AC1}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS synthesis/tonegenerator ""
+        -52 -6 4000 0 0 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {EAA2590E-8615-8F41-8689-BBD66C376A09}
+      WAK 0 0
+    >
+  >
+>

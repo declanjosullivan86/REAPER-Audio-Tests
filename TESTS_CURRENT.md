@@ -14,6 +14,10 @@
 - NEW - Tremelo - Invert Tremelo Phase On - Two tracks w/ Mic Input - 
 - Track 1 - Low Hz of 0.1 and Track 2 - High of 20hz
 - Instead of Mic Input - Used Spotify and Blackhole 2ch
+
+- 2025-11-09 09:12:29 - ReaPitch Shiter +8, +12, +24
+- Frequency Shifter - several tracks -10khz to 10khz automation items looping using Saw waveform
+- Reaper Project File uploaded to Github under November/9
   
 This document outlines a multi-track audio test within the Reaper Digital Audio Workstation (DAW) environment.  
 The goal is to explore various audio effects and their playback through a simple, consumer-grade speaker setup.
